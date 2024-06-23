@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**tgoncalv/tgoncalv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Taïga Gonçalves**, a research engineer specialized in **AI | Computer Vision**.
+I aim to publish impactful research and develop **explainable AI systems** that benefit society, such as in the **medical field**, **interactive media**, and **autonomous systems**.
 
-Here are some ideas to get you started:
+### 💻 What I'm working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Research projects on **adversarial attacks**
+- Part-time jobs in **Computer Vision**
+
+### 🧠 What I'm learning:
+
+- AI themes:
+  - Adversarial attacks
+  - Style transfer
+  - Knowledge distillation
+  - Domain generalization
+  - Human detection
+  - Pose estimation
+  - Optical flow
+- Programming:
+  - Learning fundamental algorithms using [Leetcode](https://leetcode.com/u/tgoncalv/)
+
+### 🤝 Let's collaborate on:
+
+- Innovative **AI** and **Computer Vision** projects
+- Research and development of **transparent and understandable AI systems**
+
+### 🌐 Find me elsewhere:
+
+- [LinkedIn](https://www.linkedin.com/in/taigagoncalves/)
+
+### 🌟 Skills:
+
+- Fluent in 🇫🇷 French, 🇯🇵 Japanese, and 🇬🇧 English
+- Can code in 🐍 Python , ⚙️ C++, ☕ Java, and 📜 JavaScript
+
+Let's innovate and inspire together! 🚀
