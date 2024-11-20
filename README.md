@@ -31,6 +31,7 @@ You can find more information on [my portfolio](https://tgoncalv.github.io/) !
 ### 🌐 Find me elsewhere:
 
 - [LinkedIn](https://www.linkedin.com/in/taigagoncalves/)
+- [Personal Website](https://tgoncalv.github.io/)
 
 ### 🌟 Skills:
 
