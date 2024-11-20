@@ -3,6 +3,8 @@
 I'm **Taïga Gonçalves**, a research engineer specialized in **AI | Computer Vision**.
 I aim to publish impactful research and develop **explainable AI systems** that benefit society, such as in the **medical field**, **interactive media**, and **autonomous systems**.
 
+You can find more information on [my portfolio](https://tgoncalv.github.io/) !
+
 ### 💻 What I'm working on:
 
 - Research projects on **adversarial attacks**
